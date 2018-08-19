@@ -14,8 +14,7 @@ Steps to reproduce:
         - `Windows 10 SDK 10.0.15063.0`
         - `Windows 10 SDK 10.0.16299.0`
     1. Click Install/Modify, wait for packages to install, and reboot if necessary (to enable Hyper-V).
-    1. Optionally you can also install but you will have to modify this solution and know what you are doing:
-        - [Windows Insider Preview SDK](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewSDK)
+    1. Optionally you can also install:
         - [Mobile Emulator Insider Preview](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewSDK)
 1. Download and extract a [.zip file](https://github.com/sirredbeard/w10m-emulator-template/archive/master.zip) of this repository.
 1. Open w10m-emulator-template.sln in Visual Studio 2017.
@@ -24,4 +23,4 @@ Steps to reproduce:
 
 <img src="https://raw.githubusercontent.com/sirredbeard/w10m-emulator-template/master/Capture.PNG">
 
-1. Run.
+Run.
